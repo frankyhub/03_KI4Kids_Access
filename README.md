@@ -5,8 +5,9 @@
 |[:skull:ISSUE](https://github.com/frankyhub/03_KI4Kids_Access/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/03_KI4Kids_Access/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/03_KI4Kids_Access/wiki)||
 |--|--|--|--|
 | | | | |
-<a href="https://github.com/frankyhub/03_KI4Kids_Access/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/03_KI4Kids_Access)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/03_KI4Kids_Access)|<a href="https://github.com/frankyhub/03_KI4Kids_Access/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/03_KI4Kids_Access)|<a href="https://github.com/frankyhub/03_KI4Kids_Access/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/03_KI4Kids_Access)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2093-blue)|
+<a href="https://github.com/frankyhub/03_KI4Kids_Access/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/03_KI4Kids_Access)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/03_KI4Kids_Access)|<a href="https://github.com/frankyhub/03_KI4Kids_Access/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/03_KI4Kids_Access)|<a href="https://github.com/frankyhub/03_KI4Kids_Access/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/03_KI4Kids_Access)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2094-blue)|
 |![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/03_KI4Kids_Access)| <a href="https://github.com/frankyhub/03_KI4Kids_Access/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/03_KI4Kids_Access/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
+
 
 
 <img src="pic/access.png" width="500"> 

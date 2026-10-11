@@ -2,17 +2,15 @@
 
 <div align="center">
 
-# Zugangskontrolle - Personen erkennen und GPIOs steuern
+|[:skull:ISSUE](https://github.com/frankyhub/03_KI4Kids_Access/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/03_KI4Kids_Access/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/03_KI4Kids_Access/wiki)||
+|--|--|--|--|
+| | | | |
+<a href="https://github.com/frankyhub/03_KI4Kids_Access/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/03_KI4Kids_Access)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/03_KI4Kids_Access)|<a href="https://github.com/frankyhub/03_KI4Kids_Access/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/03_KI4Kids_Access)|<a href="https://github.com/frankyhub/03_KI4Kids_Access/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/03_KI4Kids_Access)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2093-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/03_KI4Kids_Access)| <a href="https://github.com/frankyhub/03_KI4Kids_Access/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/03_KI4Kids_Access/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
 
 
-|[:skull:ISSUE](https://github.com/frankyhub/03_KI4Kids_Access/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/03_KI4Kids_Access/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/03_KI4Kids_Access/blob/main/wiki.md)|
-|--|--|--|
-| | | | 
-| <a href="https://github.com/frankyhub/03_KI4Kids_Access/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/03_KI4Kids_Access/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
-
-
-![Bild](pic/access.png)
-
+<img src="pic/access.png" width="500"> 
+<br> <br>
 
 </div>
 
@@ -32,7 +30,10 @@ Dieses Repo beschreibt eine Zutrittskontrolle mit Gesichtserkennung. Die KI-Zutr
 
 GPIOs mit Python steuern und eine Zugangskontrolle mit Gesichtserkennung realisieren
 
-![Bild](pic/Arbeitsplatz.png)
+<img src="pic/Arbeitsplatz.png" width="500"> 
+<br> <br>
+
+
 
 ## Ablauf
 
@@ -188,7 +189,8 @@ Die GPIOs sind oftmals nur als Lötpunkte oder, beim Raspberry Pi vom Modell abh
 
 
 
-![Bild](pic/pinout.png)
+<img src="pic/pinout.png" width="500"> 
+<br> <br>
 
 ---
 
@@ -1215,10 +1217,12 @@ cv2.destroyAllWindows()
 
 ```
 
-![Bild](pic/beate.png)
+<img src="pic/beate.png" width="500"> 
+<br> <br>
 
 
-![Bild](pic/tim.png)
+<img src="pic/tim.png" width="500"> 
+<br> <br>
 
 ---
 
